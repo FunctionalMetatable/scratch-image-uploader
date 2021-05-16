@@ -6,7 +6,7 @@
    "content_scripts": [
      {
        "matches": [
-         "https://scratch.mit.edu/discuss/*"
+         "https://uploads.scratch.mit.edu/discuss/*"
        ],
        "js": ["jquery.js","content.js", "text-field-edit.js", "md5.js"]
      }
